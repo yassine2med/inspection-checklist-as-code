@@ -1,0 +1,17 @@
+title: Boiler Room Monthly Inspection
+location: Building A, Mechanical Room 1
+sections:
+  - name: Safety
+    items:
+      - Emergency shutoff switch is labeled and unobstructed
+      - Fire extinguisher is charged and tagged this month
+      - Floor is dry and clear of stored items
+  - name: Boilers
+    items:
+      - Boiler 1 pressure is within the posted range
+      - Boiler 2 pressure is within the posted range
+      - No visible leaks at valves or flanges
+  - name: Pumps
+    items:
+      - Circulation pumps run without unusual noise
+      - Pump seals show no dripping
