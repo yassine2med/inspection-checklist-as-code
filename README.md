@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="inspection-checklist-as-code" width="100%"></p>
+
 # inspection-checklist-as-code
 
 Keeps each inspection checklist as a YAML file and renders it as a printable text page or a PDF.
