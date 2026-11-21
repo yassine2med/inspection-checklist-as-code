@@ -2,6 +2,8 @@
 
 # inspection-checklist-as-code
 
+[![CI](https://github.com/yassine2med/inspection-checklist-as-code/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/inspection-checklist-as-code/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Keeps each inspection checklist as a YAML file and renders it as a printable text page or a PDF.
 
 ![Screenshot](docs/screenshot.png)
